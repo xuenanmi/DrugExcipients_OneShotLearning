@@ -20,4 +20,4 @@ Python code to train three one-shot models on Kinase/GPCR dataset, using the pac
 
 ## Authors
 
-- **Xuenan Mi** - [xmi4@illinois.edu](mailto:xmi4@illinois.edu)
+**Xuenan Mi** - [xmi4@illinois.edu](mailto:xmi4@illinois.edu)
