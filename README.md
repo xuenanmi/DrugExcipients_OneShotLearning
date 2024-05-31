@@ -2,7 +2,9 @@
 This repository contains code for "Predicting the Activities of Drug Excipients on Biological Targets using One-Shot Learning" paper. <br>
 J. Phys. Chem. B 2022, 126, 7, 1492–1503.
 
-**1.generate_negative_sample.py**  
+## Repository Structure
+
+**1.generate_negative_sample.py**
 
 In-house code used to generate negative samples, based on the procedures in the Method section in the paper.  
 
