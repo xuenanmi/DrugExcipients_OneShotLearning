@@ -1,5 +1,5 @@
 # DrugExcipients_OneShotLearning
-This repository contains code for "Predicting the Activities of Drug Excipients on Biological Targets using One-Shot Learning" paper.
+This repository contains code for "Predicting the Activities of Drug Excipients on Biological Targets using One-Shot Learning" paper. J. Phys. Chem. B 2022, 126, 7, 1492–1503.
 
 **1.generate_negative_sample.py**  
 
@@ -14,3 +14,7 @@ Script to generate the input file for one-shot-models.
 **3.one-shot-models.py**  
 
 Python code to train three one-shot models on Kinase/GPCR dataset, using the package in deepchem.
+
+## Authors
+
+- **Xuenan Mi** - [xmi4@illinois.edu](mailto:xmi4@illinois.edu)
